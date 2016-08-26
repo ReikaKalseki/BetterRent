@@ -1,0 +1,79 @@
+[
+  {
+    "op": "replace",
+    "path": "/tenantMoney/0/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 100]},
+        {"weight" : 0.25, "item" : [ "money", 175]},
+        {"weight" : 0.2, "item" : [ "money", 250]},
+        {"weight" : 0.1, "item" : [ "money", 375]},
+        {"weight" : 0.05, "item" : [ "money", 500]}
+      ]
+  },
+  {
+    "op": "replace",
+    "path": "/tenantMoney/1/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 175]},
+        {"weight" : 0.25, "item" : [ "money", 250]},
+        {"weight" : 0.2, "item" : [ "money", 375]},
+        {"weight" : 0.1, "item" : [ "money", 500]},
+        {"weight" : 0.05, "item" : [ "money", 675]}
+      ]
+  },
+  {
+    "op": "replace",
+    "path": "/tenantMoney/2/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 250]},
+        {"weight" : 0.25, "item" : [ "money", 375]},
+        {"weight" : 0.2, "item" : [ "money", 500]},
+        {"weight" : 0.1, "item" : [ "money", 675]},
+        {"weight" : 0.05, "item" : [ "money", 850]}
+      ]
+  },
+  {
+    "op": "replace",
+    "path": "/tenantMoney/3/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 375]},
+        {"weight" : 0.25, "item" : [ "money", 500]},
+        {"weight" : 0.2, "item" : [ "money", 675]},
+        {"weight" : 0.1, "item" : [ "money", 850]},
+        {"weight" : 0.05, "item" : [ "money", 1075]}
+      ]
+  },
+  {
+    "op": "replace",
+    "path": "/tenantMoney/4/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 500]},
+        {"weight" : 0.25, "item" : [ "money", 675]},
+        {"weight" : 0.2, "item" : [ "money", 850]},
+        {"weight" : 0.1, "item" : [ "money", 1075]},
+        {"weight" : 0.05, "item" : [ "money", 1300]}
+      ]
+  },
+  {
+    "op": "replace",
+    "path": "/tenantMoney/5/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 675]},
+        {"weight" : 0.25, "item" : [ "money", 850]},
+        {"weight" : 0.2, "item" : [ "money", 1075]},
+        {"weight" : 0.1, "item" : [ "money", 1300]},
+        {"weight" : 0.05, "item" : [ "money", 1575]}
+      ]
+  },
+  {
+    "op": "replace",
+    "path": "/tenantMoney/6/1/pool",
+    "value": [
+        {"weight" : 0.4, "item" : [ "money", 850]},
+        {"weight" : 0.25, "item" : [ "money", 1075]},
+        {"weight" : 0.2, "item" : [ "money", 1300]},
+        {"weight" : 0.1, "item" : [ "money", 1575]},
+        {"weight" : 0.05, "item" : [ "money", 1850]}
+      ]
+  }
+]

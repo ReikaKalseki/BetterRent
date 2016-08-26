@@ -1,0 +1,10 @@
+{
+  "author" : "Reika",
+  "description" : "Scales the rent amounts better so that high-tier planets offer rewards worth their risk.",
+  "friendlyName" : "Better Rent",
+  "includes" : ["Frackin Universe"],
+  "link" : "steam://url/CommunityFilePage/751146518",
+  "name" : "BetterRent",
+  "steamContentId" : "751146518",
+  "version" : "0.0.1"
+}
